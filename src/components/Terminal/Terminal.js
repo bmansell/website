@@ -15,7 +15,7 @@ const Background = styled(Box)`
 `
 
 const TerminalText = styled(Text)`
-  font-family: 'Monaco', 'Courier New', sans-serif;
+  font-family: 'Monaco', monospace;
 `
 
 const Terminal = () => (
