@@ -7,7 +7,7 @@ import { theme } from '../theme'
 const App = () => (
   <div className='app'>
     <ThemeProvider theme={theme}>
-      <Flex flexDirection='column' alignItems='center' p={[2, null, null, 3]}>
+      <Flex flexDirection='column' alignItems='center' p={[2, 4, null, null, 5]}>
         <Header />
         <Terminal />
         <Footer />
