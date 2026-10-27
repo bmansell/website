@@ -1,3 +1,9 @@
 # Brianna Mansell's Personal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built with [Vite](https://vite.dev) and React.
+
+- `npm run dev` starts the dev server.
+- `npm test` runs the tests.
+- `npm run build` builds the site into `dist/`.
+
+Pushes to `main` deploy to GitHub Pages with the workflow in `.github/workflows/deploy.yml`.
