@@ -38,13 +38,14 @@ body {
   margin: 0;
   text-transform: uppercase;
   font-family: 'Barlow', sans-serif;
-  font-weight: bolder;
+  font-weight: 400;
   font-size: 28px;
   color: var(--text-dark);
 }
 
 .header-name span {
   color: var(--primary);
+  font-weight: 700;
 }
 
 /* Terminal */
